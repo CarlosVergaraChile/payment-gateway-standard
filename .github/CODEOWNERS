@@ -1,0 +1,8 @@
+* @CarlosVergaraChile
+
+# Specific ownership
+/payment-gateways/* @CarlosVergaraChile
+/authentication/* @CarlosVergaraChile
+/encryption/* @CarlosVergaraChile
+/tests/* @CarlosVergaraChile
+/documentation/* @CarlosVergaraChile
